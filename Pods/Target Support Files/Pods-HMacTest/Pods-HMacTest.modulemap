@@ -1,0 +1,6 @@
+framework module Pods_HMacTest {
+  umbrella header "Pods-HMacTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
